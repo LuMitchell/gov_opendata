@@ -5,10 +5,10 @@
 开放数据
 
 北京
-https://www.bjdata.gov.cn/jkfb/index.htm
+https://data.beijing.gov.cn/
 
 上海
-http://www.data.sh.gov.cn/home!toHomePage.action
+https://data.sh.gov.cn/
 
 天津
 https://data.tj.gov.cn/
@@ -32,7 +32,7 @@ http://data.jiangxi.gov.cn/
 http://ningxiadata.gov.cn/odweb/index.htm
 
 山东
-http://data.sd.gov.cn/odweb/
+http://data.sd.gov.cn/
 
 陕西
 http://www.sndata.gov.cn/
@@ -48,7 +48,7 @@ http://data.guizhou.gov.cn/
 
 
 成都
-http://www.cddata.gov.cn/odweb/
+http://www.cddata.gov.cn/
 
 深圳
 https://opendata.sz.gov.cn
