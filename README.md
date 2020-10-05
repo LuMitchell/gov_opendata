@@ -14,7 +14,7 @@ https://data.sh.gov.cn/
 https://data.tj.gov.cn/
 
 福建
-https://data.fujian.gov.cn/
+https://data.fujian.gov.cn/odweb/
 
 海南
 http://data.hainan.gov.cn/
@@ -29,7 +29,7 @@ http://gddata.gd.gov.cn/
 http://data.jiangxi.gov.cn/
 
 宁夏
-http://ningxiadata.gov.cn/odweb/index.htm
+http://ningxiadata.gov.cn/odweb/index.htm （下线）
 
 山东
 http://data.sd.gov.cn/
@@ -60,7 +60,7 @@ http://www.yaan.gov.cn/shuju.html
 http://data.xm.gov.cn/opendata/index.html#/
 
 佛山（正在升级  2019年十月底上线）
-http://www.foshan-data.cn/
+http://www.foshan-data.cn/ (已下线)
 
 广州
 http://data.gz.gov.cn/odweb/
